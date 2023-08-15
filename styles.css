@@ -19,4 +19,20 @@ td:nth-child(2){
 td:nth-child(3){
 	text-align:right;
 }
+#table-2{
+	height:150px;
+}
+
+#t-image{
+	text-align:center;
+}
+.bg1{
+	background-color:green;
+	height:18px;
+}
+.bg2{
+	background-color:blue;
+	height:18px;
+	
+}
 
